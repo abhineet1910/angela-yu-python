@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c82f3c0-9354-4294-89df-89f2485900b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../100 Days of Code - The Complete Python Pro Bootcamp1/.idea/100 Days of Code - The Complete Python Pro Bootcamp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject2/.idea/PythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/.idea/PythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cofee/.idea/cofee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe_oop_machine/.idea/coffe_oop_machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffeemachine/.idea/coffeemachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day16_python/.idea/day16_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day17_star/.idea/day17_star.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19/.idea/day19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_18_starrt/.idea/day_18_starrt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ping_pong/.idea/ping_pong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spot_color_painting/.idea/spot_color_painting.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Eptb4ccqGKjnlaj61VipkCcdR5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/abhin/PycharmProjects/day20snake_project"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c82f3c0-9354-4294-89df-89f2485900b2" name="Changes" comment="" />
+      <created>1780887408647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780887408647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

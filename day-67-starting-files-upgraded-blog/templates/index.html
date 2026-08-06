@@ -27,7 +27,7 @@
           <h2 class="post-title">{{ post.title }}</h2>
           <h3 class="post-subtitle">{{ post.subtitle }}</h3>
         </a>
-        <!-- TODO: Add code to delete posts below -->
+
         <a href="{{ url_for('delete_post', post_id=post.id) }}">✘ DELETE </a>
         <p class="post-meta">
           Posted by
@@ -41,7 +41,7 @@
 
       <!-- New Post -->
       <div class="d-flex justify-content-end mb-4">
-      <!-- TODO: Adding new posts -->
+
         <a
           class="btn btn-primary float-right"
           href="{{url_for('add_new_post')}}"
